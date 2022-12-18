@@ -1,0 +1,4 @@
+
+
+dynamic path
+notes.$noteId.ts -> will convert to notes/noteId
